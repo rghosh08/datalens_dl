@@ -18,5 +18,4 @@
 | Faster SOC Investigations | NLP Workflow for Log Data Processing |
 | Early Recognition of Zero-Day Attacks | Non-Deterministic Clustering |
 | Faster Parsing of Unstructured Log Files | Automated Tagging by Named Entity Recognition (NRE) |
-| Faster Processing of Unstructured Data | Petabyte-Scale Classification |
 | Faster Remediation  | Recommendation Engine |
