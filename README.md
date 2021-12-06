@@ -3,7 +3,7 @@
 
 * nlp.ipynb: This notebook pertains to the standard NLP workflow including toeknization, frequency analysis, sentiment analysis, similarity analysis, and summarization. 
 
-* ner.ipynb: This notebook pertains to deep learning based named entity recognition (NRE) for automated tagging of documents. 
+* ner.ipynb: This notebook pertains to deep learning based named entity recognition (NER) for automated tagging of documents. 
 
 * clustering.ipynb: This notebook pertains to non-determinstic clustering of a corpus. This is relevnat to novelty detection in unstructured log files. 
 
